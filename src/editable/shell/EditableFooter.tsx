@@ -21,7 +21,7 @@ export function EditableFooter() {
           <div>
             <Link href="/" className="inline-flex items-center gap-4">
               <span className="flex h-12 w-12 items-center justify-center rounded-2xl border border-white/14 bg-white/8">
-                <img src="/favicon.png?v=20260413" alt={SITE_CONFIG.name} className="h-8 w-8 object-contain" />
+                <img src="/favicon.png" alt={SITE_CONFIG.name} className="h-8 w-8 object-contain" />
               </span>
               <span>
                 <span className="editable-display block text-[2rem] font-semibold leading-none text-white">

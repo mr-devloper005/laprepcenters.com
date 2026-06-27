@@ -37,7 +37,7 @@ export function EditableNavbar() {
       <nav className="mx-auto flex min-h-[92px] w-full max-w-[var(--editable-container)] items-center gap-5 px-4 sm:px-6 lg:px-8">
         <Link href="/" className="group flex shrink-0 items-center gap-4">
           <span className="flex h-12 w-12 items-center justify-center rounded-2xl border border-white/20 bg-white/8 shadow-[0_10px_24px_rgba(0,0,0,0.18)]">
-            <img src="/favicon.png?v=20260413" alt={SITE_CONFIG.name} className="h-8 w-8 object-contain" />
+            <img src="/favicon.png" alt={SITE_CONFIG.name} className="h-8 w-8 object-contain" />
           </span>
           <span className="hidden md:block">
             <span className="editable-display block text-[2rem] font-semibold leading-none tracking-[0.01em] text-white">
