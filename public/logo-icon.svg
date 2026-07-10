@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="brand" x1="0.14" y1="0" x2="0.86" y2="1">
+      <stop offset="0%" stop-color="#0f78db"/>
+      <stop offset="45%" stop-color="#4a7fff"/>
+      <stop offset="80%" stop-color="#8f46cc"/>
+      <stop offset="100%" stop-color="#d51c39"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#brand)" d="M256 486
+    C256 486 96 316 96 206
+    C96 118.35 167.35 47 256 47
+    C344.65 47 416 118.35 416 206
+    C416 316 256 486 256 486 Z"/>
+  <path fill="#ffffff" d="M191 116h40v180h-40z"/>
+  <path fill="#ffffff" d="M191 256h130v40h-130z"/>
+</svg>
