@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import {
-  ArrowRight, ChevronRight, Globe2, Search, ShieldCheck, Sparkles,
+  ChevronRight, Globe2, Search, ShieldCheck, Sparkles,
 } from 'lucide-react'
 import type { SitePost } from '@/lib/site-connector'
 import type { HomeTimeSection } from '@/lib/task-data'
